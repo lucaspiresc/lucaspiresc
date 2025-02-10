@@ -1,11 +1,11 @@
 <div align="center">
-    <a href = "mailto:lucascicutti1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23DB4437?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/lucascicutti1995/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+    <h3 align="center">Lucas Pires Cicutti</h3>
+    <p>Fullstack Developer <br/> Backend Developer</p>
 </div>
 
 <div align="center">
-    <h3 align="center">Lucas Pires Cicutti</h3>
-    <p>Fullstack Developer <br/> Backend Developer</p>
+    <a href = "mailto:lucascicutti1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23DB4437?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/lucascicutti1995/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ## 🧔🏻 About Me
