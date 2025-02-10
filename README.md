@@ -22,8 +22,8 @@ I have a self-taught approach, always striving to optimize the way I share knowl
 ## 📊 GitHub Stats
 
 <div style="display: inline_block">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=pucminas,tcc_twitter&hide=jupyter%20notebook,gherkin,twig,smarty,scss" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucaspiresc&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspiresc&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=pucminas,tcc_twitter&hide=jupyter%20notebook,gherkin,twig,smarty,scss" />
 </div>
     
 ## 🛠 My Top Tools and Languages
