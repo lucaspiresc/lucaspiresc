@@ -37,8 +37,6 @@ I have a self-taught approach, always striving to optimize the way I share knowl
     <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-Framework-brightgreen?logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Micronaut-Framework-brightgreen?logo=micronaut&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Entity_Framework-8C3D65?logo=dotnet&logoColor=white" />
 </div>
 
 ### Javascript and its Frameworks
@@ -49,6 +47,13 @@ I have a self-taught approach, always striving to optimize the way I share knowl
     <img src="https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black" />
+</div>
+
+### C# and its Frameworks
+
+<div style="display: inline_block">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Entity_Framework-8C3D65?logo=dotnet&logoColor=white" />
 </div>
 
 ### Front-End
